@@ -1,0 +1,1 @@
+This is a project for the Odin Project where I will practice advanced CSS as well as HTML forms, form validation and regex by creating a sign up page for an imaginary service.
