@@ -1,0 +1,18 @@
+body {
+    display: flex;
+
+}
+
+#banner {
+    position: absolute;
+    top: 40px; ;
+    background-color: grey;
+    width: 100em;
+}
+
+h1 {
+    font-family: "Black Ops One","Open Sans",Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-style:normal;
+    font-weight: 400;
+}
