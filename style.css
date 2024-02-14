@@ -46,6 +46,10 @@ h1 {
     
 }
 
+#info-block {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
 #form-bar {
     background-color: lightgrey;
     margin-top:1em;
